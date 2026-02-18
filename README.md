@@ -1,0 +1,1 @@
+This is a repository of labs from CSE100: Logic Design With Verilog. Each lab entails programming of an FPGA with certain guidelines including usage of state machines in order to achieve a function on the FPGA board 
